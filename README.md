@@ -61,9 +61,6 @@ Since **2022** I have been building business software: **ERP**, **CRM** and **da
 
 <img src="https://streak-stats.demolab.com/?user=poalninhphuoc&theme=radical&hide_border=true" alt="GitHub streak"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poalninhphuoc&theme=react-dark&hide_border=true&area=true" alt="Contribution graph"/>
 
 </div>
 
